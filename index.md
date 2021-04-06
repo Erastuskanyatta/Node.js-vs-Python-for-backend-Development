@@ -5,7 +5,7 @@ In this article, we are going to look at the differeces between Node.js and Pyth
 
 Node.js and Python are the most used languages for backend development. Developers argue that the decision of choosing either of the laguage depends on their preferences hence there is no technology that is better than the other.
 
-Yet, in this article we are going to prove that one technolty is better than the other one by considering the foolowing criteria:
+Yet, in this article we are going to prove that one technology is better than the other one by considering the foolowing criteria:
 
 1 Speed
 
@@ -21,6 +21,10 @@ Yet, in this article we are going to prove that one technolty is better than the
 To follow along with this article you need to have some knowledge in [javascricpt]() and Python
 
 ### Primary difference between Node.js and Python
+Node.js is a server side scripting language that is used to run at the server-side. It is an open source, cross-platform, javascript runtime environment that is capable to execute javascript at the server side, based on Chrome's V8 JavaScript engine. This engine was designed by Google to be useed in GoogleChrome. It compiles JavaScript functions into a machine code. 
+
+Python 
+
 
 
 ### conclusion
