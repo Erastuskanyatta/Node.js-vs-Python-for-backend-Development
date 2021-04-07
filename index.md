@@ -69,4 +69,9 @@ For instance, it might be hard to understand its event-driven architecture at fi
 
 
 ### Python
+Python Syntax is simple and compact, this makes Python easier to read and understand compared to Node.js
+
+Generally, a code of function in Python has few lines of code compared to the same code of Node.js. But again the number of lines in a code depends on the level of skills of a developer.
+
+When learning Python, you end up leaning how to indent your code in the right way because the language is indentation sensitive. However, a single indentation mistake  can break your entire code. This may end up discarrige the begiiner and he/she might end up not 
 ### conclusion
