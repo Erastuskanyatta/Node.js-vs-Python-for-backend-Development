@@ -42,5 +42,31 @@ Unlike Node.Js which makes an app more resorces and increase its performance, Py
 
 Since Node.Js is faster than Python in terms of speed, it wins a point here.
 
+NodeJS vs Python: 1 – 0
 
+### Syntax
+### Node.js
+Syntax betwen any language depends on the developer's decision, for that reason, I will not involve myself in comparison between Node.js and Python syntax.
+
+For those who are familia with JavaScript, they will agree that Node.js syntax is almost similar to that of JavaScript. Therefore, if your familia with JavaScript your not going to have lots of problem learning Node.js
+
+### Python
+Python syntax has more advantage compared to Node.js. In python, developers only need to  write few lines of code  unlike in Node.js. Python syntax is easy to understand and write. It is has no curly brackets.
+
+This makes python code easy to read and debug, in fact a begginer will have less challeges reading Python than in Node,js. But again it depends with developers experience
+
+But in the end, because Python's syntax is easier to understand and learn for beginners, it will be fair to grant Python a point here.
+
+NodeJS vs Python: 1 – 1
+
+### Learning Curve
+### Node.js
+Node.js is JavaScript-based and can be effortlessly learned by a begginer. If you have some knowledge on JavaScript, dominating Node.js ought not be an issue.
+
+Installing Node,js is quite simple, but it introduces some advanced topic in the process which might not be well understood by the beginner.
+
+For instance, it might be hard to understand its event-driven architecture at first. Yet these these architecture are very useful on app performance, but developers often need some time to master it.
+
+
+### Python
 ### conclusion
