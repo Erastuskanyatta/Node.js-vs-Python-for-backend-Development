@@ -1,4 +1,4 @@
-### Node.js-vs-Python-Which-is-the-best-Technology-for-backend-Development
+### Node js vs Python Which is the best Technology for backend Development
 
 ### Introduction
 In this article, we are going to look at the difference between Node.js and Python,  and in the end,  were are going to prove that one technology is better than the other.
@@ -100,5 +100,32 @@ Python is good language for web development as well as desktop developmnt, but u
 Here, I will be fair enough to grand Node,Js a point since it is used in mobile development unlike Python.
 
 NodeJS vs Python: 3 – 2
+
+### Extensibility
+### Node.Js
+Node.Js has several frameworks that are used to extend it. These frameworks include:
+
+  1)[Loopback.js](https://loopback.io/doc/)- to make dynamic end-end REST APIs with practically no coding.
+
+  2)[DerbyJS](https://derbyjs.com/) - to make web applications
+
+  3)[Hapi.js](https://simpleprogrammer.com/introduction-hapijs/#:~:text=Js-,hapi.,HTTP%20proxy%20applications%20with%20hapi.&text=I%20started%20using%20Express%20to%20build%20my%20web%20apps.)- for creating JSON APIs
+### Python 
+After the Introduction of Python, alot of frameworks and development tools have been created.
+
+For instance, Python can be incorporated with code editors like Sublime Text, which offers some additional editing features  and punctuation extensions.
+
+Frameworks that are used to extend Python Include:
+
+1)[Django](https://docs.djangoproject.com/en/3.2/)
+
+2)[Flask](https://flask.palletsprojects.com/en/1.1.x/)
+
+3)[Web2Py](https://loopback.io/doc/)
+
+Both extensions are easily extensible therefore both gets a point here.
+
+NodeJS vs Python: 4 – 3
+
 
 ### conclusion
