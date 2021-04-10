@@ -131,4 +131,3 @@ NodeJS vs Python: 4 – 3
 ### Conclusion
 From the above comparison, Node.Js have won by 1 point. These results are from my view, different programmers may differentiate the two technology in other ways. Therefore, choosing either of the languages will depend on the developer's skill and experience.
 
-Node.Js has a hi
