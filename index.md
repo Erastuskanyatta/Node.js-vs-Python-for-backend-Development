@@ -1,7 +1,7 @@
 ### Node js vs Python Which is the best Technology for backend Development
 
 ### Introduction
-In this article, we are going to look at the difference between Node.js and Python,  and in the end,  were are going to prove that one technology is better than the other.
+In this article, we are going to look at the difference between Node.js and Python. By comparing the two languages in Backened developmet, you will notice that different technologies differ in terms of benefit and application areas.
 
 Node.js and Python are the most used languages for backend development. Developers argue that the decision of choosing either of the languages depends on their preferences, hence there is no technology that is better than the other.
 
@@ -130,4 +130,8 @@ NodeJS vs Python: 4 – 3
 
 ### Conclusion
 From the above comparison, Node.Js have won by 1 point. These results are from my view, different programmers may differentiate the two technology in other ways. Therefore, choosing either of the languages will depend on the developer's skill and experience.
+
+Both technologies are good in terms of learming curve and extensiblity. Node.Js has a good speed of performance compared to Python. But in terms of Syntax, it looses to Python since Python Syntax is more friendly to a begginer.
+
+The above Points does not mean that Node,Js is perfect than Python, the decision of choosing them depends on the project to be done.
 
