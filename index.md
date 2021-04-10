@@ -75,7 +75,7 @@ Generally, a code of function in Python has few lines of code compared to the sa
 
 When learning Python, you end up learning how to indent your code in the right way because the language is indentation sensitive. However, a single indentation mistake can break your entire code. This may end up discarding the beginner since with wrong indentation the code will not run.
 
-In linux like Ubuntu, Python is already installed by default, so the developer will not have to spend his time in Installation. Similarly in Widows, installing  Python is very easy. In MAC OS  Python 2.0 is already installed, but this version is never used as it will interfere with system libraries. Instead another version is downloaded. After downloading, selecting proper version in development environment is very important.
+In Linux like Ubuntu, Python is already installed by default, so the developer will not have to spend his time in Installation. Similarly in Widows, installing  Python is very easy. In MAC OS  Python 2.0 is already installed, but this version is never used as it will interfere with system libraries. Instead, another version is downloaded. After downloading, selecting the proper version in the development environment is very important.
 
 In conclusion, both languages are easy to learn depending on the developer's skill, therefore each technology will receive a point here.
 
@@ -84,20 +84,20 @@ NodeJS vs Python: 2 – 2
 
 ### Universality
 ### Node.js
-Node.Js is mainly used in backend development. For frontend developent, developers use JavaScript. This is a great advantages because the developer end up using the same language for both backend and frontend.
+Node.Js is mainly used in backend development. For front-end development, developers use JavaScript. This is a great advantage because the developer ends up using the same language for both backend and frontend.
 
 With Node.js, you can create web applications as well desktop and hybrid mobile apps, alongside cloud and IoT solutions.
 
-Node.Js is cross-stage. This means that, a developer can create one desktop app that will work On different operating System like MAC OS, Linux and Widows.  This will be a great advantage to the developer in terms of project cost.
+Node.Js is cross-stage. This means that a developer can create one desktop app that will work On different operating systems like MAC OS, Linux, and Windows.  This will be a great advantage to the developer in terms of the project cost.
 
 ### Python 
-Unlike Node.Js, Python is a full-stack, that means it can be used in both frontend and backend development. 
+Unlike Node.Js, Python is a full-stack, which means it can be used in both frontend and backend development. 
 
-A python Program can be written in MAC OS and the same program run in Linux, therefore Pyhon is also a cross-stage
+A python program can be written in MAC OS and the same program run in Linux, therefore Python is also a cross-stage
 
-Python is good language for web development as well as desktop developmnt, but unlike Node.Js it is never used in mobile app development.
+Python is a good language for web development as well as desktop development, but unlike Node.Js it is never used in mobile app development.
 
-Here, I will be fair enough to grand Node,Js a point since it is used in mobile development unlike Python.
+Here, I will be fair enough to grand Node.Js a point since it is used in mobile development, unlike Python.
 
 NodeJS vs Python: 3 – 2
 
@@ -111,9 +111,9 @@ Node.Js has several frameworks that are used to extend it. These frameworks incl
 
   3)[Hapi.js](https://simpleprogrammer.com/introduction-hapijs/#:~:text=Js-,hapi.,HTTP%20proxy%20applications%20with%20hapi.&text=I%20started%20using%20Express%20to%20build%20my%20web%20apps.)- for creating JSON APIs
 ### Python 
-After the Introduction of Python, alot of frameworks and development tools have been created.
+After the Introduction of Python, a lot of frameworks and development tools have been created.
 
-For instance, Python can be incorporated with code editors like Sublime Text, which offers some additional editing features  and punctuation extensions.
+For instance, Python can be incorporated with code editors like Sublime Text, which offers some additional editing features and punctuation extensions.
 
 Frameworks that are used to extend Python Include:
 
@@ -123,9 +123,12 @@ Frameworks that are used to extend Python Include:
 
 3)[Web2Py](https://loopback.io/doc/)
 
-Both extensions are easily extensible therefore both gets a point here.
+Both extensions are easily extensible therefore both get a point here.
 
 NodeJS vs Python: 4 – 3
 
 
-### conclusion
+### Conclusion
+From the above comparison, Node.Js have won by 1 point. These results are from my view, different programmers may differentiate the two technology in other ways. Therefore, choosing either of the languages will depend on the developer's skill and experience.
+
+Node.Js has a hi
