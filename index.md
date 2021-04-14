@@ -107,9 +107,8 @@ Node.Js enables asynchronous. A process can be called even if another event is o
 Node.Js is event-driven(can respond to the user in various ways). Therefore it is suitable for the development of games.
 
 ### Python
-Python is not event-driven. To built an event driven app using Python, You need to install some tool like [CPython](https://stackoverflow.com/questions/17130975/python-vs-cpython).
+Python is not event-driven. To build an event-driven app using Python, You need to install some tool like [CPython](https://stackoverflow.com/questions/17130975/python-vs-cpython).
 
-Python enables synchronous. This make it slow and therefore it is not suitable for projects that requires high speed of execution. So if you want to create a game program you;d rather not choose Python but Node,Js
+Python enables synchronous. This makes it slow and therefore it is not suitable for projects that require a high speed of execution. So if you want to create a game program you'd rather not choose Python but Node.Js
 
 ### Conclusion
-
