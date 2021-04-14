@@ -26,7 +26,7 @@ To make a good decision on which technology to use, we will  consider the follow
 2. Scalability
 3. Universality/ Full Stack
 4. Extensibility
-5. Learning curve
+5. Architecture
 
 ### SPEED
 Performance and Speed are the main features that every developer wishes his project to have at the end. Not even the user would want the website or an app to have low speed and performance.
@@ -94,3 +94,22 @@ The great extensibility of Python and the use of many frameworks have made Pytho
 2. [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 3. [Web2Py](https://loopback.io/doc/)
+
+### Architecture
+Another important feature that a developer should give a priority before choosing the backend language is the architecture. They are two types of architecture:
+
+- Synchronous -  In this type of programming language, one job is first completed before accepting another request.
+- Asynchronous - Here, more than one process can easily run at the same time.
+
+### Node.Js
+Node.Js enables asynchronous. A process can be called even if another event is occurring. This means that no process is ever blocked. Several requests can be processed at the same time.
+
+Node.Js is event-driven(can respond to the user in various ways). Therefore it is suitable for the development of games.
+
+### Python
+Python is not event-driven. To built an event driven app using Python, You need to install some tool like [CPython](https://stackoverflow.com/questions/17130975/python-vs-cpython).
+
+Python enables synchronous. This make it slow and therefore it is not suitable for projects that requires high speed of execution. So if you want to create a game program you;d rather not choose Python but Node,Js
+
+### Conclusion
+
