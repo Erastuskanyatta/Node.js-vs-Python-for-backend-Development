@@ -115,3 +115,5 @@ Python enables synchronous. This makes it slow and therefore it is not suitable 
 From the above comparison,  it is evident that a  software may work on one project but may not work on another different project. Therefore, when chosing between Node.Js and  Python, it is important to consider the needs and requirements of the two languages.
 
 I now believe that it will be easy to choose either of the two languages when working on backend side. Keep these results with you when choosing between NOde.Js and Python.
+
+Simply remember - this doesn't imply that Python and Node.js specifically are consistently the most ideal decision - it's up to you and your task.
