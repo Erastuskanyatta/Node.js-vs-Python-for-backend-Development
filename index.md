@@ -11,7 +11,7 @@ The backend side of every website, an app, or any other(), is the root of every 
 
 For the frontend side, JavaScript has attracted every developer to use it. This is because of its universality character and the fact that it is easy to use. But for the backend side, it has remained an argument between developers on which is the best technology to use between Node.Js and Python. This is because the two languages are the most used and are known to be the best as far as backend languages are concerned.
 
-The question now is, how do you choose between Node.Js and Python? {emoji}. What are the features to look at?
+The question now is, how do you choose between Node.Js and Python? 🤔. What are the features to look at?
 
 To answer this question, I will look at the differences between the two languages and help the developer in making decisions on which language to use depending on the specification.
 
@@ -111,4 +111,7 @@ Python is not event-driven. To build an event-driven app using Python, You need 
 
 Python enables synchronous. This makes it slow and therefore it is not suitable for projects that require a high speed of execution. So if you want to create a game program you'd rather not choose Python but Node.Js
 
-### Conclusion
+### Wrap up
+From the above comparison,  it is evident that a  software may work on one project but may not work on another different project. Therefore, when chosing between Node.Js and  Python, it is important to consider the needs and requirements of the two languages.
+
+I now believe that it will be easy to choose either of the two languages when working on backend side. Keep these results with you when choosing between NOde.Js and Python.
