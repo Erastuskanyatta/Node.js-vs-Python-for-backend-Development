@@ -13,7 +13,7 @@ To answer this question, we will look at the differences between the two languag
 
 Before we look at the comparison of the two technology, let's first look at the primary differences between the two.
 
-Node.js is an open-source, cross-platform technology and Javascript runtime environment capable of executing javascript at the server-side. It is based on Chrome's V8 JavaScript engine. This engine was designed by Google to be used in Google's Chrome web browser. V8 compiles JavaScript functions into machine code.
+Node.js is an open-source, cross-platform technology and Javascript runtime environment capable of executing javascript at the server-side. It depends on Chrome's V8 JavaScript engine. This engine was designed by Google to compile JavaScript functions into machine code.
 
 On the other hand, Python is a general-purpose programming language used in web development to create dynamic websites using frameworks like Flask, Django and Pyramid. For the most part, Python runs on Google's Apps Engine. Likewise created by Google, the App Engine allows you to create web applications with Python and permits you to benefit from various libraries that the best Python developers use.
 
@@ -35,7 +35,7 @@ Node.js is also very responsive and has a very high loading speed.
 #### Python
 Unlike Java which is a compiled language, Python is an interpreted languages and it is generally slower than the compiled languages. This make Python lose to Node.js in terms of performance.
 
-Python is not suitable for apps that require high execution speed. This is because of single flow of code leading to slow processing of requests. Python web applications are therefore slower.
+Python is not suitable for apps that require high execution speed. This is because of single flow of code in Python which leads to slow processing of requests. Python web applications are therefore slower.
 
 ### SCALABILITY
 Scalability is the ability of a web app to adapt to changes like an increase in performance, new features, etc.
@@ -90,7 +90,7 @@ Another important feature that a developer should give a priority before choosin
 - Asynchronous - Here, more than one process can easily run at the same time.
 
 ### Node.Js
-Node.js enables asynchronous. A process can be called even if another event is occurring. This means that no process is ever blocked. Several requests can be processed at the same time.
+Node.js enables asynchronous. A process can be called even if another event is occurring. This means that no process is ever blocked. Different process can be processed simultaneously.
 
 Node.js is event-driven(can respond to the user in various ways). Therefore it is suitable for the development of games.
 
