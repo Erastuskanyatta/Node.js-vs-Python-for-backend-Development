@@ -1,89 +1,77 @@
-<!-- database connection -->
-<!-- apis -->
-<!-- full stack -->
-<!-- scalability -->
+### Node.Js vs Python Which is the best Technology for backend Development 
 
-### Node js vs Python Which is the best Technology for backend Development 
 ### Introduction
-The go-ahead between Node.Js and Python is a great battle. However, the decision of choosing either of the two languages for your backend development depends on your requirements. In this article, we are going to look at the differences between Node.js and Python. By comparing the two languages in Backend development, you will notice that different technologies differ in terms of benefit and areas of application.
+The comparison between Node.js and Python is a great battle. However, the decision of choosing either of the two technologies for your backend development depends on your project requirements. In this article, we are going to look at the differences between Node.js and Python. By comparing the two technologies in Backend development, you will notice that different technologies differ in terms of benefit and areas of application.
 
-The backend side of every website, an app, or any other(), is the root of every project and the frontend side depends on it. No matter how beautiful and attractive your frontend side is, it will always depends on the backend for it to stand. Therefore, every developer must make a wise decision when choosing the language to use for the backend project
+The backend side of every webapp is the root of every project and the frontend side depends on it. No matter how beautiful and attractive your frontend is, it will always depends on the backend for it to stand. Therefore, every developer must make a wise decision when choosing the technology to use for the backend project
 
-For the frontend side, JavaScript has attracted every developer to use it. This is because of its universality character and the fact that it is easy to use. But for the backend side, it has remained an argument between developers on which is the best technology to use between Node.Js and Python. This is because the two languages are the most used and are known to be the best as far as backend languages are concerned.
+For the frontend, JavaScript has no competitor. This is because of its universality character and the fact that it is easy to use. But for the backend, it has remained an argument between developers on which is the best technology to use between Node.js and Python. This is because the two technologies are the most used and are known to be the best as far as backend technologies are concerned.
 
-The question now is, how do you choose between Node.Js and Python? 🤔. What are the features to look at?
+The question now is, how do you choose between Node.js and Python? 🤔. What are the features to look at?🤔
 
-To answer this question, I will look at the differences between the two languages and help the developer in making decisions on which language to use depending on the specification.
+To answer this question, we will look at the differences between the two languages and help the developer in making decisions on which technology to use depending on the specifications.
 
 Before we look at the comparison of the two technology, let's first look at the primary differences between the two.
 
-Node.js is an open-source, cross-platform technology and javascript runtime environment capable of executing javascript at the server-side. It is based on Chrome's V8 JavaScript engine. This engine was designed by Google to be used in Google's Chrome web browser. V8 compiles JavaScript functions into machine code.
+Node.js is an open-source, cross-platform technology and Javascript runtime environment capable of executing javascript at the server-side. It is based on Chrome's V8 JavaScript engine. This engine was designed by Google to be used in Google's Chrome web browser. V8 compiles JavaScript functions into machine code.
 
-On the other hand, Python is a general-purpose programming language used in Web Development to create dynamic websites using frameworks like Flask, Django, and Pyramid.  For the most part, Python runs on Google's Apps Engine. Likewise created by Google, the App Engine allows you to create web applications with Python and permits you to benefit from various libraries that the best Python developers use.
+On the other hand, Python is a general-purpose programming language used in web development to create dynamic websites using frameworks like Flask, Django and Pyramid. For the most part, Python runs on Google's Apps Engine. Likewise created by Google, the App Engine allows you to create web applications with Python and permits you to benefit from various libraries that the best Python developers use.
 
 To make a good decision on which technology to use, we will  consider the following criteria:
 1. Speed
 2. Scalability
-3. Universality/ Full Stack
+3. Universality
 4. Extensibility
 5. Architecture
 
 ### SPEED
-Performance and Speed are the main features that every developer wishes his project to have at the end. Not even the user would want the website or an app to have low speed and performance.
-
-Unlike Java which is a compiled language, Python and JavaScript are interpreted languages and they are generally slower than the compiled languages.
+Performance and Speed are the main features that every developer wishes his project to have at the end. The aim of every developer is to deliver a high performance application to the user.
 
 #### Node.Js
-Since Node.js uses V8 Engine to interpret JavaScript code, its performance is remarkable. V8 is a Google fund engine. It converts Js code into a  machine code that will be understood by the processor.
+Since Node.js uses V8 Engine to interpret JavaScript code, its performance is remarkable. V8 is a Google engine. It converts Js code into machine code that will be understood by the processor.
 
-Node.Js is also very responsive and has a very high speed of loading
-
-#### Python 
-Unlike Node.js (which increases the performance of an app), Python codes are moved step by step. This leads to lower performance and ends up consuming a lot of time.
-
-Therefore, Python is not suitable for apps that require high execution speed. Python web applications are therefore slower.
-
-### SCALABILITY
-Scalability is the ability of a language to adapt to changes like an increase in performance, new features, and changes in the maintenance.
-
-#### Node.Js
-In Node.Js there is more than one type of typing. You can either use the TypeScript or JavaScript method. For more details on TypeScript and JavaScript refer [here](https://www.section.io/engineering-education/javascript-vs-typescript/).
-
-Unlike Python, Node.Js uses different modules for its functionality. Therefore, for the increase of scalability of an app developed by Node.Js few modules are added. This will automatically increase the demand of using Node.Js by developers.
-
-Node.Js is an asynchronous architecture(run two processes), hence it facilitates multithreading. 
-
+Node.js is also very responsive and has a very high loading speed.
 
 #### Python
-Python does not support multithreading, therefore scalability is not easy. For Python to have easy scalability, libraries have to be imported. However, this does not mean that it can compete with Node.Js in terms of scalability.
+Unlike Java which is a compiled language, Python is an interpreted languages and it is generally slower than the compiled languages. This make Python lose to Node.js in terms of performance.
 
-### Full Stack (UNIVERSALITY)
-Full-stack is the development of both the frontend and backend side of an application by either use similar languages or different languages.
+Python is not suitable for apps that require high execution speed. This is because of single flow of code leading to slow processing of requests. Python web applications are therefore slower.
 
-### Node.Js
-Node.Js is used in backend development. For front-end development, developers use JavaScript(a node.Js tool). This saves on resources since only one team with Node.Js skills is hired. This feature of node.Js has in turn led many developers to choose it. 
+### SCALABILITY
+Scalability is the ability of a web app to adapt to changes like an increase in performance, new features, etc.
 
-Node.Js is cross-stage. This means that a developer can create one desktop app that will work On different operating systems like MAC OS, Linux, and Windows.  This will be a great advantage to the developer in terms of the project cost.
+#### Node.Js
+Unlike Python, Node.js uses different modules for its functionality. Therefore, for the increase of scalability of an app developed by Node.js few modules are added. This will automatically increase the demand of using Node.js by developers.
 
-### Python
-Python is a full-stack language. Python is used in backend development while its frameworks are used in frontend development. 
+Node.js is an asynchronous technology (can run multiple processes simultaniously), hence it facilitates multithreading.
+
+#### Python
+Python does not support multithreading, therefore scalability is not easy. For Python to have easy scalability, libraries have to be used. However, this does not mean that it can compete with Node.js in terms of scalability.
+
+### UNIVERSALITY
+
+ #### Node.Js
+Node.js is mosty used in backend development. For front-end development, developers prefer JavaScript. This saves on resources since only one team with Node.js skills is hired. This feature of Node.js has in turn led many developers to choose it.
+
+Node.js is cross-stage. This means that a developer can create one desktop app that will work On different operating systems like MAC OS, Linux, and Windows.  This will be a great advantage to the developer in terms of the project cost.
+
+#### Python
+Python is a full-stack language. It is mostly used in backend development while its frameworks are used in frontend development. 
 
 A python program can be written in MAC OS and the same program run in Linux, therefore Python is also a cross-stage
 
-Python is a good language for web development as well as desktop development, but unlike Node.Js it is never used in mobile app development.
+Python is a good language for web development as well as desktop development, but unlike Node.js it is never used in mobile app development. 
 
 ### Extensibility
-Extensibility is the ability to add more features to a programing language. The addition of frameworks and functions to a backend language, the more it increases its functionality.
+ Extensibility is the ability to add more features and functionaloties to a technology. The more frameworks you add to a backend language, the more it increases its functionality.
 ### Node.Js
-The use of Node.Js and JavaScript together has led to an increase in its popularity. More frameworks have been created with Node.Js being the backbone. These Frameworks include:
+The use of Node.js and JavaScript together has led to an increase in its popularity. More frameworks have been created with Node.js being the backbone. These Frameworks include:
 1. [Loopback.js](https://loopback.io/doc/)- to make dynamic end-end REST APIs with practically no coding.
-
 2. [DerbyJS](https://derbyjs.com/) - to make web applications
-
-3. [Hapi.js](https://simpleprogrammer.com/introduction-hapijs/)- for creating JSON APIs
+3. [Hapi.js](https://simpleprogrammer.com/introduction-hapijs/)- for creating web services such as REST APIs
 
 ### Python
-After the Introduction of Python, a lot of frameworks and development tools have been created.
+After the introduction of Python, a lot of frameworks and development tools have been created.
 
 For instance, Python can be incorporated with code editors like Sublime Text, which offers some additional editing features and punctuation extensions.
 
@@ -102,18 +90,19 @@ Another important feature that a developer should give a priority before choosin
 - Asynchronous - Here, more than one process can easily run at the same time.
 
 ### Node.Js
-Node.Js enables asynchronous. A process can be called even if another event is occurring. This means that no process is ever blocked. Several requests can be processed at the same time.
+Node.js enables asynchronous. A process can be called even if another event is occurring. This means that no process is ever blocked. Several requests can be processed at the same time.
 
-Node.Js is event-driven(can respond to the user in various ways). Therefore it is suitable for the development of games.
+Node.js is event-driven(can respond to the user in various ways). Therefore it is suitable for the development of games.
 
 ### Python
 Python is not event-driven. To build an event-driven app using Python, You need to install some tool like [CPython](https://stackoverflow.com/questions/17130975/python-vs-cpython).
 
-Python enables synchronous. This makes it slow and therefore it is not suitable for projects that require a high speed of execution. So if you want to create a game program you'd rather not choose Python but Node.Js
+Python enables synchronous. This makes it slow and therefore it is not suitable for projects that require a high speed of execution. So if you want to create a game program you'd rather not choose Python but Node.js
 
 ### Wrap up
-From the above comparison,  it is evident that a  software may work on one project but may not work on another different project. Therefore, when chosing between Node.Js and  Python, it is important to consider the needs and requirements of the two languages.
+From the above comparison,  it is evident that a  software may work on one project but may not work on another different project. Therefore, when chosing between Node.js and  Python, it is important to consider the needs and requirements of the two languages.
 
-I now believe that it will be easy to choose either of the two languages when working on backend side. Keep these results with you when choosing between NOde.Js and Python.
+I now believe that it will be easy to choose either of the two languages when working on backend side. Keep these results with you when choosing between Node.js and Python.
 
 Simply remember - this doesn't imply that Python and Node.js specifically are consistently the most ideal decision - it's up to you and your task.
+
