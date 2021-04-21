@@ -1,4 +1,4 @@
-### Node.Js vs Python Which is the best Technology for backend Development 
+### Node.Js vs Python Which is the best Technology for backend Development?
 
 ### Introduction
 The comparison between Node.js and Python is a great battle. However, the decision of choosing either of the two technologies for your backend development depends on your project requirements. In this article, we are going to look at the differences between Node.js and Python. By comparing the two technologies in Backend development, you will notice that different technologies differ in terms of benefit and areas of application.
