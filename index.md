@@ -28,7 +28,7 @@ To make a good decision on which technology to use, we will  consider the follow
 Performance and Speed are the main features that every developer wishes his project to have at the end. Every developer aims to deliver a high-performance application to the user.
 
 #### Node.Js
-Since Node.js uses V8 Engine to interpret JavaScript code, its performance is remarkable. V8 is a Google engine. It converts Js code into machine code that will be understood by the processor.
+Since Node.js uses [V8 Engine](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) to interpret JavaScript code, its performance is remarkable. V8 is a powerful JavaScript engine that is provided by Google. It converts JavaScript code into machine code that will be understood by the processor.
 
 Node.js is also very responsive and has a very high loading speed.
 
@@ -45,12 +45,12 @@ Unlike Python, Node.js uses different modules for its functionality. Therefore, 
 
 Node.js is an asynchronous technology. (can run multiple processes)Hence it facilitates multithreading.
 #### Python
-Python does not support multithreading, therefore scalability is not easy. For Python to have easy scalability, libraries have to be used. However, this does not mean that it can compete with Node.js in terms of scalability.
+Python does not support multithreading. Therefore, scalability is not easy. For Python to have easy scalability, libraries have to be used. However, this does not mean that it can compete with Node.js in terms of scalability.
 
 ### UNIVERSALITY
 
  #### Node.Js
-Node.js is used in backend development. For front-end development, developers prefer JavaScript. This saves on resources since only one team with Node.js skills is hired. This feature of Node.js has, in turn, led many developers to choose it.
+Node.js is used in backend development. For frontend development, developers prefer JavaScript. This saves on resources since only one team with Node.js skills is hired. This feature of Node.js has, in turn, led many developers to choose it.
 
 Node.js is cross-stage. This means that a developer can create one desktop app that will work On different operating systems like MAC OS, Linux, and Windows.  This will be a great advantage to the developer in terms of the project cost.
 
@@ -85,7 +85,7 @@ The great extensibility of Python and the use of many frameworks have made Pytho
 ### Architecture
 Another important feature that a developer should give a priority before choosing the backend language is the architecture. They are two types of architecture:
 
-- Synchronous - ne job is first completed before accepting another request.
+- Synchronous -  Job is first completed before accepting another request.
 - Asynchronous - Here, more than one process can run at the same time.
 
 ### Node.Js
